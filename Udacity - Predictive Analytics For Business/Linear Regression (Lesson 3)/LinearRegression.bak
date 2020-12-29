@@ -80,21 +80,7 @@ Query=`Data$`</DefaultAnnotationText>
         <Position x="366" y="90" />
       </GuiSettings>
       <Properties>
-        <Configuration>
-          <TempFile>C:\Users\mary\AppData\Local\Temp\Engine_6512_6575662ed4be455d97d3433a5a0cc289_\Engine_976_0dc49d24916d4b75b21753d8bac9890b_.yxdb</TempFile>
-          <TempFileDataProfiling />
-          <Layout>
-            <ViewMode>Single</ViewMode>
-            <ViewSize value="100" />
-            <View1>
-              <DefaultTab>Report</DefaultTab>
-              <Hints>
-                <Table />
-              </Hints>
-            </View1>
-            <View2 />
-          </Layout>
-        </Configuration>
+        <Configuration />
         <Annotation DisplayMode="0">
           <Name />
           <DefaultAnnotationText />
